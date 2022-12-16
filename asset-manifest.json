@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/starry-sky/static/css/main.42bd1105.css",
+    "main.js": "/starry-sky/static/js/main.b71ad7f8.js",
+    "index.html": "/starry-sky/index.html",
+    "main.42bd1105.css.map": "/starry-sky/static/css/main.42bd1105.css.map",
+    "main.b71ad7f8.js.map": "/starry-sky/static/js/main.b71ad7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42bd1105.css",
+    "static/js/main.b71ad7f8.js"
+  ]
+}
